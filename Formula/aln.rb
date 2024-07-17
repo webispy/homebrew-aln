@@ -1,8 +1,8 @@
 class Aln < Formula
   desc "Amazing Lucky Numbers Library"
   homepage "https://github.com/webispy/aln"
-  url "https://github.com/webispy/aln/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "8db44f88840ae7c93eb237e5aec9f8aa49c5c03bf29e3360f5eabed2f7729902"
+  url "https://github.com/webispy/aln/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "e1ca51e3153b0b7824b36417c0acd5f4057028992ef1af0cde753408cd21a276"
   license "Apache-2.0"
 
   head "https://github.com/webispy/aln.git", branch: "master"
